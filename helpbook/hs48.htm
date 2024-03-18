@@ -1,0 +1,48 @@
+<HTML><HEAD>
+	
+	<TITLE>Try Direct Connection Yourself First</TITLE>
+	<META NAME="KEYWORDS" CONTENT="Direct Connection;">
+	<META NAME="AUTHOR" CONTENT="">
+	<META NAME="GENERATOR" CONTENT="HelpScribble 7.8.3">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0000FF" VLINK="#800080" ALINK="#FF0000">
+<P><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">
+<A HREF="cnt.htm" TARGET="cnt">Contents</A>
+ - <A HREF="idx.htm" TARGET="cnt">Index</A>
+</FONT><HR></P>
+<FONT FACE="Arial, helvetica, sans-serif" COLOR="#0000FF" SIZE="5"><B>Try Direct Connection Yourself First</B></FONT><BR>
+<BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">If you are going to run a fantasy sports wagering league and want to see how </FONT><A HREF="hs40.htm"><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">Direct Connection</FONT></A><FONT FACE="Arial, helvetica, sans-serif" SIZE="2"> works before using it with your players, this is how you do it.&nbsp; Once you have done the steps outlined in this section, you will see exactly what your Players see when using the Player application.&nbsp; While this may ease your mind by experiencing this first hand before your Players do, this step is absolutely NOT REQUIRED.</FONT><BR>
+<BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">To experience </FONT><A HREF="hs40.htm"><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">Direct Connection</FONT></A><FONT FACE="Arial, helvetica, sans-serif" SIZE="2"> yourself, you will not need to mess with opening up any ports.&nbsp; For now, you may ignore the section entitled, </FONT><A HREF="hs55.htm"><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">Direct Connection Books Must Receive Signal</FONT></A><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">.&nbsp; However, should you realize the great benefits from running your league in this manner and wish to extend invites to your Players, you must reverse what you do here and then refer to </FONT><A HREF="hs55.htm"><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">Direct Connection Books Must Receive Signal</FONT></A><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">.</FONT><BR>
+<BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">If you <U>do not have ANY Direct Connection Players yet</U> and wish to use it before they do, you may go into the GameDay Payoff - Book configuration file and insert a line by which you can use the application anywhere (for yourself) without the requirements of those identified in the "</FONT><A HREF="hs55.htm"><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">Direct Connection Books Must Receive Signal</FONT></A><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">" section of Help.&nbsp; This is called "local hosting" whereby the direct connection signal stays internal to your network.&nbsp; However, for this to work, you MUST have the Book and the Player on the SAME COMPUTER.&nbsp; If you have not already installed the Player and need it, refer to </FONT><A HREF="hs250.htm"><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">Have Book/Player, Want Other</FONT></A><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">.</FONT><BR>
+<BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">Keep in mind that if you ever need to establish a </FONT><A HREF="hs40.htm"><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">Direct Connection</FONT></A><FONT FACE="Arial, helvetica, sans-serif" SIZE="2"> with your Players, then you will have to reverse what you have done here or it will never work.&nbsp; To accomplish local hosting for GameDay Payoff - Book you must do as follows:</FONT><BR>
+<BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">1) Close the application</FONT><BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">2) Search your computer for the file "Book.xml".&nbsp; Make sure you option to search in hidden folders because that is where it is located.</FONT><BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">3) Upon locating it, right click and Open With the Notepad application</FONT><BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">4) Once it is open, place your cursor at the end of the line, "&lt;clear /&gt;" and hit the Enter on your keyboard and then the Tab key.</FONT><BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">5) Now copy the entire line between the pair of quotes.&nbsp; "&lt;add key="IPAddress" value="127.0.0.1" /&gt;"</FONT><BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">6) Paste it in the Book.xml file where you had last tabbed to (your cursor should be there).</FONT><BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">7) Then Save the file and Close it</FONT><BR>
+<BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">Next time you launch the application, you will be "local hosting".</FONT><BR>
+<BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2">When you are finished, your "Book.xml" file should look like the following:</FONT><BR>
+<FONT FACE="Arial, helvetica, sans-serif" COLOR="#800000" SIZE="2"><IMG ALIGN=LEFT STYLE="margin-right:8pt" SRC="LocalHost.png" WIDTH="488" HEIGHT="192" BORDER="0"></FONT><BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2"><B>IMPORTANT:&nbsp; If you ever decide to establish a Direct Connection with your Player's, IT WILL NOT WORK with local hosting in place.&nbsp; You MUST reverse this process and remove the line that was inserted.</B></FONT><BR>
+<BR>
+<FONT FACE="Arial, helvetica, sans-serif" SIZE="2"><B>IMPORTANT:&nbsp; DO NOT change anything else from within the "Book.xml" file.&nbsp; Your application will not operate properly and you will need to do a full uninstall (see topic "</FONT><A HREF="hs180.htm"><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">Uninstall Book/Player</FONT></A><FONT FACE="Arial, helvetica, sans-serif" SIZE="2">" in Help) of the application and start over.
+</B></FONT>
+</BODY></HTML>
