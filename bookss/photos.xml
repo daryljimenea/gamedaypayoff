@@ -1,0 +1,261 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "7/4/2013">
+	<sitename>Adobe Web Photo Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "01BookMain.jpg"
+width = "590"
+height = "409"
+thumbpath = "01BookMain.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "02BookLineMonitor.jpg"
+width = "590"
+height = "410"
+thumbpath = "02BookLineMonitor.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "03BookWMOpen.jpg"
+width = "590"
+height = "410"
+thumbpath = "03BookWMOpen.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "04BookWMInProgress.jpg"
+width = "590"
+height = "410"
+thumbpath = "04BookWMInProgress.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "05BookWMClosed.jpg"
+width = "590"
+height = "410"
+thumbpath = "05BookWMClosed.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "06BookRWStraight.jpg"
+width = "590"
+height = "409"
+thumbpath = "06BookRWStraight.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "07BookRWParlay.jpg"
+width = "590"
+height = "409"
+thumbpath = "07BookRWParlay.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "08BookRWTeaser.jpg"
+width = "590"
+height = "409"
+thumbpath = "08BookRWTeaser.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "09BookRWActionPoints.jpg"
+width = "590"
+height = "409"
+thumbpath = "09BookRWActionPoints.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "09BookRWPleaser.jpg"
+width = "590"
+height = "409"
+thumbpath = "09BookRWPleaser.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "11BookPlayerManagerBasic.jpg"
+width = "590"
+height = "410"
+thumbpath = "11BookPlayerManagerBasic.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "12BookPlayerManagerInvite.jpg"
+width = "590"
+height = "410"
+thumbpath = "12BookPlayerManagerInvite.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "14BookPolicyBuyPoints.jpg"
+width = "590"
+height = "409"
+thumbpath = "14BookPolicyBuyPoints.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "14BookPolicyLimits.jpg"
+width = "590"
+height = "407"
+thumbpath = "14BookPolicyLimits.jpg"
+thumbwidth = "75"
+thumbheight = "51">
+</image>
+
+
+<image
+path = "15BookPolicyParlayRules.jpg"
+width = "590"
+height = "409"
+thumbpath = "15BookPolicyParlayRules.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "16BookPolicyParlayOdds.jpg"
+width = "590"
+height = "409"
+thumbpath = "16BookPolicyParlayOdds.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "17BookPolicyTeaserRules.jpg"
+width = "590"
+height = "409"
+thumbpath = "17BookPolicyTeaserRules.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "18BookPolicyTeaserOdds.jpg"
+width = "590"
+height = "409"
+thumbpath = "18BookPolicyTeaserOdds.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "19BookPolicyPleaserRules.jpg"
+width = "590"
+height = "409"
+thumbpath = "19BookPolicyPleaserRules.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "20BookPolicyPleaserOdds.jpg"
+width = "590"
+height = "409"
+thumbpath = "20BookPolicyPleaserOdds.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "21BookPolicyActionPoints.jpg"
+width = "590"
+height = "409"
+thumbpath = "21BookPolicyActionPoints.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "22BookBalances.jpg"
+width = "590"
+height = "410"
+thumbpath = "22BookBalances.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "23BookBalancesTotal.jpg"
+width = "590"
+height = "410"
+thumbpath = "23BookBalancesTotal.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "24BookPassword.jpg"
+width = "590"
+height = "343"
+thumbpath = "24BookPassword.jpg"
+thumbwidth = "75"
+thumbheight = "43">
+</image>
+
+</images>
+</gallery>
