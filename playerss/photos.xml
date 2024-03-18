@@ -1,0 +1,321 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "7/4/2013">
+	<sitename>Adobe Web Photo Gallery</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "01playermain.jpg"
+width = "590"
+height = "409"
+thumbpath = "01playermain.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "02PlayerWagerParlay.jpg"
+width = "590"
+height = "409"
+thumbpath = "02PlayerWagerParlay.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "03PlayerWagerStraight.jpg"
+width = "590"
+height = "409"
+thumbpath = "03PlayerWagerStraight.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "04PlayerWagerTeaser.jpg"
+width = "590"
+height = "409"
+thumbpath = "04PlayerWagerTeaser.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "05PlayerWagerPleaser.jpg"
+width = "590"
+height = "409"
+thumbpath = "05PlayerWagerPleaser.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "06PlayerWagerActionPoints.jpg"
+width = "590"
+height = "409"
+thumbpath = "06PlayerWagerActionPoints.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "07PlayerPlaceWagerStatus.jpg"
+width = "590"
+height = "343"
+thumbpath = "07PlayerPlaceWagerStatus.jpg"
+thumbwidth = "75"
+thumbheight = "43">
+</image>
+
+
+<image
+path = "08PlayerWMReview.jpg"
+width = "590"
+height = "410"
+thumbpath = "08PlayerWMReview.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "09PlayerWMOpen.jpg"
+width = "590"
+height = "410"
+thumbpath = "09PlayerWMOpen.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "10PlayerWMInProgress.jpg"
+width = "590"
+height = "410"
+thumbpath = "10PlayerWMInProgress.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "11PlayerWMInClosed.jpg"
+width = "590"
+height = "410"
+thumbpath = "11PlayerWMInClosed.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "12PlayerRecordWagerStraight.jpg"
+width = "590"
+height = "410"
+thumbpath = "12PlayerRecordWagerStraight.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "13PlayerAddBookInfo.jpg"
+width = "590"
+height = "425"
+thumbpath = "13PlayerAddBookInfo.jpg"
+thumbwidth = "75"
+thumbheight = "54">
+</image>
+
+
+<image
+path = "14PlayerAddBookType.jpg"
+width = "590"
+height = "425"
+thumbpath = "14PlayerAddBookType.jpg"
+thumbwidth = "75"
+thumbheight = "54">
+</image>
+
+
+<image
+path = "15PlayerAddBookInvite.jpg"
+width = "590"
+height = "446"
+thumbpath = "15PlayerAddBookInvite.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "16PlayerAddBookPassword.jpg"
+width = "590"
+height = "425"
+thumbpath = "16PlayerAddBookPassword.jpg"
+thumbwidth = "75"
+thumbheight = "54">
+</image>
+
+
+<image
+path = "17PlayerAddBookCongrats.jpg"
+width = "590"
+height = "425"
+thumbpath = "17PlayerAddBookCongrats.jpg"
+thumbwidth = "75"
+thumbheight = "54">
+</image>
+
+
+<image
+path = "18PlayerBookMaintenence.jpg"
+width = "590"
+height = "410"
+thumbpath = "18PlayerBookMaintenence.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "19PlayerPolicyLimits.jpg"
+width = "590"
+height = "407"
+thumbpath = "19PlayerPolicyLimits.jpg"
+thumbwidth = "75"
+thumbheight = "51">
+</image>
+
+
+<image
+path = "20PlayerPolicyBuyPoints.jpg"
+width = "590"
+height = "409"
+thumbpath = "20PlayerPolicyBuyPoints.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "21PlayerPolicyParlayRules.jpg"
+width = "590"
+height = "409"
+thumbpath = "21PlayerPolicyParlayRules.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "22PlayerPolicyParlayOdds.jpg"
+width = "590"
+height = "409"
+thumbpath = "22PlayerPolicyParlayOdds.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "23PlayerPolicyTeaserRules.jpg"
+width = "590"
+height = "409"
+thumbpath = "23PlayerPolicyTeaserRules.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "24PlayerPolicyTeaserOdds.jpg"
+width = "590"
+height = "409"
+thumbpath = "24PlayerPolicyTeaserOdds.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "25PlayerPolicyActionPoints.jpg"
+width = "590"
+height = "409"
+thumbpath = "25PlayerPolicyActionPoints.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "26PlayerNotification.jpg"
+width = "590"
+height = "430"
+thumbpath = "26PlayerNotification.jpg"
+thumbwidth = "75"
+thumbheight = "54">
+</image>
+
+
+<image
+path = "27PlayerBalances.jpg"
+width = "590"
+height = "410"
+thumbpath = "27PlayerBalances.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "28PlayerBalancesTotal.jpg"
+width = "590"
+height = "410"
+thumbpath = "28PlayerBalancesTotal.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "29PlayerBoxScores.jpg"
+width = "590"
+height = "410"
+thumbpath = "29PlayerBoxScores.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+
+<image
+path = "30PlayerGamesInProgress.jpg"
+width = "590"
+height = "409"
+thumbpath = "30PlayerGamesInProgress.jpg"
+thumbwidth = "75"
+thumbheight = "52">
+</image>
+
+</images>
+</gallery>
