@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.01</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>PADManager 1.0.35</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-008508BF378</Company_UIN>
+    <Product_UIN>APP-00850827541</Product_UIN>
+    <Search_String>GameDay Payoff</Search_String>
+    <Search_String_Unique>GameDay Payoff</Search_String_Unique>
+    <Publish_on_CD>FALSE</Publish_on_CD>
+    <Company_Description></Company_Description>
+    <Press_Release_Search_String></Press_Release_Search_String>
+    <NewsFeed_Search_String></NewsFeed_Search_String>
+    <Search_Engine_Search_String></Search_Engine_Search_String>
+    <Web_Directories_Search_String></Web_Directories_Search_String>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Additional_Categories></Additional_Categories>
+    <Backlink></Backlink>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>Sports Vice Solutions</Company_Name>
+    <Address_1>1400 Pine Row Court</Address_1>
+    <Address_2></Address_2>
+    <City_Town>St. Louis</City_Town>
+    <State_Province>MO</State_Province>
+    <Zip_Postal_Code>63146</Zip_Postal_Code>
+    <Country>United States of America</Country>
+    <Company_WebSite_URL>http://www.gamedaypayoff.com</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>Jason</Contact_First_Name>
+      <Contact_Last_Name>Jappa</Contact_Last_Name>
+      <Contact_Email>submissionsgdp@gmail.com</Contact_Email>
+      <Author_First_Name>Jason</Author_First_Name>
+      <Author_Last_Name>Jappa</Author_Last_Name>
+      <Author_Email>submissionsgdp@gmail.com</Author_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>submissionsgdp@gmail.com</Sales_Email>
+      <Support_Email>submissionsgdp@gmail.com</Support_Email>
+      <General_Email>submissionsgdp@gmail.com</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <ASP>
+    <ASP_FORM>Y</ASP_FORM>
+    <ASP_Member>N</ASP_Member>
+    <ASP_Member_Number></ASP_Member_Number>
+  </ASP>
+  <OISV>
+    <OISV_FORM>Y</OISV_FORM>
+    <OISV_Member>N</OISV_Member>
+    <OISV_Member_Number></OISV_Member_Number>
+  </OISV>
+  <Program_Info>
+    <Program_Name>GameDay Payoff</Program_Name>
+    <Program_Version>1.0.0.121</Program_Version>
+    <Program_Release_Month>01</Program_Release_Month>
+    <Program_Release_Day>24</Program_Release_Day>
+    <Program_Release_Year>2010</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>WinXP,Windows2000,Windows2003,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Specific_Category>Home/Hobby</Program_Specific_Category>
+    <Program_Category_Class>Home &amp; Hobby::Recreation</Program_Category_Class>
+    <Program_System_Requirements>10MB disk space and 256MB system RAM</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>7539672</File_Size_Bytes>
+      <File_Size_K>7362</File_Size_K>
+      <File_Size_MB>7.19</File_Size_MB>
+      <Filename_Versioned>gamedaypayoffinstaller.exe</Filename_Versioned>
+      <Filename_Generic>gamedaypayoffinstaller.exe</Filename_Generic>
+      <Filename_Previous></Filename_Previous>
+      <Filename_Long></Filename_Long>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Count></Expire_Count>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Includes_JAVA_VM>N</Includes_JAVA_VM>
+    <Includes_VB_Runtime>N</Includes_VB_Runtime>
+    <Includes_DirectX>N</Includes_DirectX>
+    <Program_Categories>Games :: Gaming Tools,Home &amp; Hobby :: Gambling,Home &amp; Hobby :: Sports,Games :: Casino Type,Education :: Sport and Health</Program_Categories>
+    <Limitations>None</Limitations>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Program_Change_Info></Program_Change_Info>
+    <Awards></Awards>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://www.gamedaypayoff.com</Application_Info_URL>
+      <Application_Screenshot_URL>http://www.gamedaypayoff.com/playermain.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>http://www.gamedaypayoff.com/gdpappicon.gif</Application_Icon_URL>
+      <Application_XML_File_URL>http://www.gamedaypayoff.com/padgamedaypayoff.xml</Application_XML_File_URL>
+      <Application_Order_URL></Application_Order_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://www.gamedaypayoff.com/gamedaypayoffinstaller.exe</Primary_Download_URL>
+      <Secondary_Download_URL></Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Affiliates>
+    <Affiliates_FORM>Y</Affiliates_FORM>
+    <Affiliates_VERSION>1.4</Affiliates_VERSION>
+    <Affiliates_URL>http://www.asp-shareware.org/pad/extensions/Affiliates.htm</Affiliates_URL>
+    <Affiliates_FORM_VER></Affiliates_FORM_VER>
+    <Affiliates_Information_Page></Affiliates_Information_Page>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_DigiBuy_Order_Page></Affiliates_DigiBuy_Order_Page>
+    <Affiliates_DigiBuy_Vendor_ID></Affiliates_DigiBuy_Vendor_ID>
+    <Affiliates_DigiBuy_Product_ID></Affiliates_DigiBuy_Product_ID>
+    <Affiliates_DigiBuy_Maximum_Commission_Rate></Affiliates_DigiBuy_Maximum_Commission_Rate>
+    <Affiliates_DigitalCandle_Order_Page></Affiliates_DigitalCandle_Order_Page>
+    <Affiliates_DigitalCandle_Vendor_ID></Affiliates_DigitalCandle_Vendor_ID>
+    <Affiliates_DigitalCandle_Product_ID></Affiliates_DigitalCandle_Product_ID>
+    <Affiliates_DigitalCandle_Maximum_Commission_Rate></Affiliates_DigitalCandle_Maximum_Commission_Rate>
+    <Affiliates_Emetrix_Order_Page></Affiliates_Emetrix_Order_Page>
+    <Affiliates_Emetrix_Vendor_ID></Affiliates_Emetrix_Vendor_ID>
+    <Affiliates_Emetrix_Product_ID></Affiliates_Emetrix_Product_ID>
+    <Affiliates_Emetrix_Maximum_Commission_Rate></Affiliates_Emetrix_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Kagi_Order_Page></Affiliates_Kagi_Order_Page>
+    <Affiliates_Kagi_Vendor_ID></Affiliates_Kagi_Vendor_ID>
+    <Affiliates_Kagi_Product_ID></Affiliates_Kagi_Product_ID>
+    <Affiliates_Kagi_Maximum_Commission_Rate></Affiliates_Kagi_Maximum_Commission_Rate>
+    <Affiliates_NorthStarSol_Order_Page></Affiliates_NorthStarSol_Order_Page>
+    <Affiliates_NorthStarSol_Vendor_ID></Affiliates_NorthStarSol_Vendor_ID>
+    <Affiliates_NorthStarSol_Product_ID></Affiliates_NorthStarSol_Product_ID>
+    <Affiliates_NorthStarSol_Maximum_Commission_Rate></Affiliates_NorthStarSol_Maximum_Commission_Rate>
+    <Affiliates_Order1_Order_Page></Affiliates_Order1_Order_Page>
+    <Affiliates_Order1_Vendor_ID></Affiliates_Order1_Vendor_ID>
+    <Affiliates_Order1_Product_ID></Affiliates_Order1_Product_ID>
+    <Affiliates_Order1_Maximum_Commission_Rate></Affiliates_Order1_Maximum_Commission_Rate>
+    <Affiliates_Osolis_Order_Page></Affiliates_Osolis_Order_Page>
+    <Affiliates_Osolis_Vendor_ID></Affiliates_Osolis_Vendor_ID>
+    <Affiliates_Osolis_Product_ID></Affiliates_Osolis_Product_ID>
+    <Affiliates_Osolis_Maximum_Commission_Rate></Affiliates_Osolis_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_Regnow_Order_Page></Affiliates_Regnow_Order_Page>
+    <Affiliates_Regnow_Vendor_ID></Affiliates_Regnow_Vendor_ID>
+    <Affiliates_Regnow_Product_ID></Affiliates_Regnow_Product_ID>
+    <Affiliates_Regnow_Maximum_Commission_Rate></Affiliates_Regnow_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+    <Affiliates_SWReg_Order_Page></Affiliates_SWReg_Order_Page>
+    <Affiliates_SWReg_Vendor_ID></Affiliates_SWReg_Vendor_ID>
+    <Affiliates_SWReg_Product_ID></Affiliates_SWReg_Product_ID>
+    <Affiliates_SWReg_Maximum_Commission_Rate></Affiliates_SWReg_Maximum_Commission_Rate>
+    <Affiliates_V-Share_Order_Page></Affiliates_V-Share_Order_Page>
+    <Affiliates_V-Share_Vendor_ID></Affiliates_V-Share_Vendor_ID>
+    <Affiliates_V-Share_Product_ID></Affiliates_V-Share_Product_ID>
+    <Affiliates_V-Share_Maximum_Commission_Rate></Affiliates_V-Share_Maximum_Commission_Rate>
+    <Affiliates_VFree_Order_Page></Affiliates_VFree_Order_Page>
+    <Affiliates_VFree_Vendor_ID></Affiliates_VFree_Vendor_ID>
+    <Affiliates_VFree_Product_ID></Affiliates_VFree_Product_ID>
+    <Affiliates_VFree_Maximum_Commission_Rate></Affiliates_VFree_Maximum_Commission_Rate>
+    <Affiliates_Yaskifo_Order_Page></Affiliates_Yaskifo_Order_Page>
+    <Affiliates_Yaskifo_Vendor_ID></Affiliates_Yaskifo_Vendor_ID>
+    <Affiliates_Yaskifo_Product_ID></Affiliates_Yaskifo_Product_ID>
+    <Affiliates_Yaskifo_Maximum_Commission_Rate></Affiliates_Yaskifo_Maximum_Commission_Rate>
+  </Affiliates>
+  <Simtel>
+    <Simtel_FORM>Y</Simtel_FORM>
+    <SIMTEL_FORM_VER>1.6 11/26/2002</SIMTEL_FORM_VER>
+    <Simtel_Platform></Simtel_Platform>
+    <Simtel_Category></Simtel_Category>
+  </Simtel>
+  <Delphi>
+    <D1>FALSE</D1>
+    <D2>FALSE</D2>
+    <D3>FALSE</D3>
+    <D4>FALSE</D4>
+    <D5>FALSE</D5>
+    <D6>FALSE</D6>
+    <D7>FALSE</D7>
+    <BCB1>FALSE</BCB1>
+    <BCB3>FALSE</BCB3>
+    <BCB4>FALSE</BCB4>
+    <BCB5>FALSE</BCB5>
+    <BCB6>FALSE</BCB6>
+    <K1>FALSE</K1>
+    <K2></K2>
+    <K3></K3>
+    <D1_URL></D1_URL>
+    <D2_URL></D2_URL>
+    <D3_URL></D3_URL>
+    <D4_URL></D4_URL>
+    <D5_URL></D5_URL>
+    <D6_URL></D6_URL>
+    <D7_URL></D7_URL>
+    <BCB1_URL></BCB1_URL>
+    <BCB3_URL></BCB3_URL>
+    <BCB4_URL></BCB4_URL>
+    <BCB5_URL></BCB5_URL>
+    <BCB6_URL></BCB6_URL>
+    <K1_URL></K1_URL>
+    <K2_URL></K2_URL>
+    <K3_URL></K3_URL>
+    <Type></Type>
+    <Price></Price>
+    <Source></Source>
+    <File_Location></File_Location>
+    <Link_URL></Link_URL>
+    <Download_URL></Download_URL>
+    <Version></Version>
+    <Notes></Notes>
+  </Delphi>
+  <PADRING>
+    <PADRING_FORM>N</PADRING_FORM>
+    <PADRING></PADRING>
+  </PADRING>
+  <NewsFeed>
+    <NewsFeed_FORM>Y</NewsFeed_FORM>
+    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
+    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
+    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
+    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
+    <NewsFeed_Language>English</NewsFeed_Language>
+    <NewsFeed_Purpose>News</NewsFeed_Purpose>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Author_First_Name></NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name></NewsFeed_Author_Last_Name>
+    <NewsFeed_Author_Email></NewsFeed_Author_Email>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+  </NewsFeed>
+  <OnlineShops>
+    <OnlineShops_FORM>Y</OnlineShops_FORM>
+    <OnlineShops_VERSION>1.0</OnlineShops_VERSION>
+    <OnlineShops_URL>http://Submit-Everywhere.com/extensions/OnlineShops.htm</OnlineShops_URL>
+    <OnlineShops_DESCRIPTION>This PAD extension allows you to check these sites distribution agreements and decide wether you wish to sell your product through them</OnlineShops_DESCRIPTION>
+    <OnlineShops_PalmGear></OnlineShops_PalmGear>
+    <OnlineShops_PocketLand></OnlineShops_PocketLand>
+    <OnlineShops_PDAssi></OnlineShops_PDAssi>
+    <OnlineShops_PDATopSoft></OnlineShops_PDATopSoft>
+    <OnlineShops_PocketGear></OnlineShops_PocketGear>
+    <OnlineShops_Softonic></OnlineShops_Softonic>
+    <OnlineShops_Winowin></OnlineShops_Winowin>
+    <OnlineShops_Handango_Agreement></OnlineShops_Handango_Agreement>
+    <OnlineShops_Handango></OnlineShops_Handango>
+  </OnlineShops>
+  <Permissions>
+    <Distribution_Permissions>There are no distribution agreements or limits.  Please distribute this software as much as you would like to whomever you would like.</Distribution_Permissions>
+    <EULA>License Agreement
+ 
+GAMEDAY PAYOFF values your anonymity and privacy. GAMEDAY PAYOFF does not contain or bundle malicious spyware.
+=======================================================
+GAMEDAY PAYOFF 
+=======================================================
+GAMEDAY PAYOFF END USER LICENSE AGREEMENT
+IMPORTANT - PLEASE READ CAREFULLY
+ 
+BY CLICKING ON THE "SUBMIT", "DOWNLOAD", "I ACCEPT" OR SUCH SIMILAR BUTTON OR LINK AS MAY BE DESIGNATED FOR PURPOSES OF INITIATING THE DOWNLOAD OF THE GAMEDAY PAYOFF SOFTWARE PRODUCT (THE " GAMEDAY PAYOFF APPLICATION") AND/OR USING THE GAMEDAY PAYOFF APPLICATION YOU AGREE TO BE LEGALLY BOUND BY THESE LICENSE TERMS AND CONDITIONS.
+ 
+PRODUCT OVERVIEW: THE GAMEDAY PAYOFF APPLICATION IS AN APPLICATION THAT ALLOWS USER'S TO (1) EMULATE REAL SPORTS WAGERING IN A FANTASY SETTING; (2) TRACK, ANALYZE, AND EVALUATE REAL SPORTS WAGERS PLACED WITHIN LEGAL JURISDICTIONS; (3)  EDUCATE ONESELF ON THE TRADE OF SPORTS WAGERING WITH THE SOLE INTENT OF APPLYING SUCH KNOWLEDGE TO THAT OF PLACING SPORTS WAGERS WITHIN LEGAL JURISDICTIONS.
+ 
+THE GAMEDAY PAYOFF APPLICATION IS SPYWARE FREE AND NO REGISTRATION OR PERSONAL INFORMATION IS REQUIRED FOR USE.
+ 
+1. License Grant
+Subject to the terms and conditions of this Agreement, GAMEDAY PAYOFF (also referred to "we", "us" or "our") grants you a non-exclusive, revocable, limited license, to (a) download and install the most current version of the GAMEDAY PAYOFF Application (including all updates thereto) and (b) use the GAMEDAY PAYOFF Application(s) you download and install for your personal, non-commercial purposes.
+ 
+2. License Conditions
+You may not rent, sell, lease, sublicense, distribute, assign, copy (other than a single copy for your own backup purposes), or in any way transfer any GAMEDAY PAYOFF Application or use any GAMEDAY PAYOFF Application for the benefit of any third party through any outsourcing or time-sharing arrangement or through the operation of any service bureau. You may not modify, reverse-engineer, decompile, disassemble, or otherwise discover the GAMEDAY PAYOFF Application, or attempt to do so for any reason. Further, you may not access, create or modify our source code in any way. You do not have the right to and may not create derivative works of the GAMEDAY PAYOFF Application. All modifications or enhancements to the GAMEDAY PAYOFF Applications remain the sole property of GAMEDAY PAYOFF. You understand that we, in our sole discretion, may modify or discontinue or suspend your right to access any of our services or use the GAMEDAY PAYOFF Application at any time, and we may at any time suspend or terminate any license hereunder and disable the GAMEDAY PAYOFF Applications.
+ 
+We reserve the right to add additional features or functions to the existing GAMEDAY PAYOFF Applications. When installed on your computer, the GAMEDAY PAYOFF Application periodically communicates with our servers. We may require the updating of the GAMEDAY PAYOFF Application on your computer when we release a new version of the GAMEDAY PAYOFF Application, or when we make new features available. You understand that we may require your review and acceptance of our then-current privacy policy and/or end user license agreement before you will be permitted a limited license for any subsequent versions of our GAMEDAY PAYOFF Application. You acknowledge and agree that we have no obligation to make available to you any subsequent versions of the GAMEDAY PAYOFF Application.
+ 
+3. Ownership
+You acknowledge and agree that the GAMEDAY PAYOFF Application is licensed, not sold to you by GAMEDAY PAYOFF. You acknowledge that the GAMEDAY PAYOFF Application, including all code, content, protocols, software, and documentation provided to you by GAMEDAY PAYOFF in conjunction with the GAMEDAY PAYOFF Application or our services are GAMEDAY PAYOFF property or the property of GAMEDAY PAYOFF licensors, and are protected by U.S. and international copyright, trademarks, patents and other proprietary rights and laws relating to Intellectual Property Rights. "Intellectual Property Rights" means, collectively, rights under patent, trademark, copyright and trade secret laws, and any other intellectual property or proprietary rights recognized in any country or jurisdiction worldwide, including, without limitation, moral or similar rights. You may not delete, alter, or remove any copyright, trademark, or other proprietary rights notice we have placed on any GAMEDAY PAYOFF. All rights not expressly granted hereunder are expressly reserved to GAMEDAY PAYOFF and GAMEDAY PAYOFF licensors. "GAMEDAY PAYOFF"  is a trademark of GAMEDAY PAYOFF.  All Rights Reserved.
+ 
+4. Installation, Operation and Removal.
+The GAMEDAY PAYOFF Application does not collect any unique information about you (such as your name, email address, etc.). Further, the GAMEDAY PAYOFF Application does not: (i) collect or report back to GAMEDAY PAYOFF any information about sites you visit on the Internet; (ii) collect or "screen-scrape" any search queries or information that you provide to any web sites; (iii) serve pop-ups when you are on other websites; or (iv) collect or report back to GAMEDAY PAYOFF any data regarding your computer keystrokes or other data unrelated to the services the GAMEDAY PAYOFF Application provides. GAMEDAY PAYOFF may obtain unique information about you through use of the GAMEDAY PAYOFF Application or website only if you specifically and knowingly provide such information in connection with a payment.
+ 
+In connection with the delivery of search services and content, the GAMEDAY PAYOFF Application does communicate with our servers and use cookies. All such activities are conducted strictly on a non-personally identifiable basis, as described in greater detail below.
+ 
+The GAMEDAY PAYOFF is also subject to the GAMEDAY PAYOFF Privacy Policy as follows:
+          We do not sell, rent or trade any personally identifiable information you provide when using the GAMEDAY PAYOFF website ("GAMEDAY PAYOFF "). 
+          We do not collect any personally identifiable information about you (such as your name or email address) when you use GAMEDAY PAYOFF unless you specifically decide to provide such information in order to enhance your GAMEDAY PAYOFF experience. 
+If you choose to provide us with an email address, we will not send an email to you unless you specifically request an email response to a customer service inquiry or contact is required in order to protect someone's safety or to enforce our Terms of Service. You are not required to provide an email address to personalize GAMEDAY PAYOFF. 
+If GAMEDAY PAYOFF is ever sold or all or substantially all of the assets relating to the GAMEDAY PAYOFF website and software are transferred to another entity, we will transfer the information you have provided (such as any stored preferences or toolbar settings) to the acquiring entity in order to ensure continuity of your personalized service. 
+We recognize and welcome our obligation to comply with the law and this policy is subject to that obligation. We will, therefore, disclose information, including cookies, in response to a request from law enforcement officials or as otherwise required by law, or if we believe it is necessary to protect someone's safety, or enforce our Terms of Service. If we decide to materially change this privacy policy, we will prominently post those changes on this page. 
+ 
+If you wish to withdraw your consent to the communication and data usage as described herein, you should uninstall any and all GAMEDAY PAYOFF Applications from your computer. You may uninstall or remove the GAMEDAY PAYOFF Application at any time by using the Windows add/remove programs function to remove the " GAMEDAY PAYOFF ".
+ 
+You understand, acknowledge and agree that the GAMEDAY PAYOFF Application includes software that allows us to distribute updates and fixes. Such updates may or may not occur upon prior notice to you.  All such updates shall be governed by and made in compliance with this Agreement and the GAMEDAY PAYOFF Privacy Policy.
+ 
+5. Your Obligations
+You represent and warrant that you are either the owner or an authorized user of the computer where the GAMEDAY PAYOFF Application is installed. The services described herein are subject to, and you agree that you shall at all times comply with, all local, state, national, and international laws, statutes, rules, regulations, ordinances and the like applicable to use of the GAMEDAY PAYOFF services and GAMEDAY PAYOFF Application.
+ 
+6. Access and Interference
+You agree that you will not use any robot, spider, other automatic or manual device or process to interfere or attempt to interfere with the proper working of any of our GAMEDAY PAYOFF Applications, services or content, except to remove our GAMEDAY PAYOFF Applications from a computer of which you are an owner or authorized user. We reserve the right to investigate occurrences which may involve such violations, and may involve, and cooperate with, law enforcement authorities in prosecuting users who have participated in such violations. You agree that it is your responsibility to install anti-virus software and related protections against viruses, Trojan horses, worms, time bombs, cancelbots or other techniques that may have the effect of damaging, destroying, disrupting or otherwise impairing a computer's functionality or operation.
+ 
+7. Electronic Signatures and Agreements
+You acknowledge and agree that by clicking on the button labeled "SUBMIT", "DOWNLOAD", "I ACCEPT" or such similar links as may be designated by GAMEDAY PAYOFF to download the software to accept the terms and conditions of this Agreement, you are submitting a legally binding electronic signature and are entering into a legally binding contract. You acknowledge that your electronic submissions constitute your agreement and intent to be bound by this Agreement. Pursuant to any applicable statutes, regulations, rules, ordinances or other laws, including without limitation the United States Electronic Signatures in Global and National Commerce Act, P.L. 106-229 (the "E-Sign Act") or other similar statutes, YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS AND OTHER RECORDS AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED THROUGH THE GAMEDAY PAYOFF APPLICATION OR SERVICES OFFERED BY GAMEDAY PAYOFF. Further, you hereby waive any rights or requirements under any statutes, regulations, rules, ordinances or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by other than electronic means.
+ 
+8. Disclaimer of Warranty
+YOU ACCESS AND USE OF THE GAMEDAY PAYOFF APPLICATIONS AND SERVICES AND ANY CONTENT AVAILABLE THROUGH OUR SERVICES OR ON OUR WEBSITES AT YOUR SOLE RISK.
+ 
+WE PROVIDE THE GAMEDAY PAYOFF APPLICATIONS AND THE CONTENT ON AN "AS IS," AND "AS AVAILABLE" BASIS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, CUSTOM, TRADE, QUIET ENJOYMENT, ACCURACY OF INFORMATIONAL CONTENT, SYSTEM INTEGRATION OR NON-INFRINGEMENT.
+ 
+WE MAKE NO REPRESENTATIONS OR WARRANTIES CONCERNING THE SERVICES PROVIDED BY THIRD PARTIES ACCESSIBLE ON OR THROUGH OUR GAMEDAY PAYOFF APPLICATIONS OR OUR SERVICES.
+ 
+NEITHER WE NOR OUR DIRECTORS, OFFICERS, EMPLOYEES, PARENTS, SUBSIDIARIES, AFFILIATES, AGENTS, CONTRACTORS, THIRD PARTY VENDORS, FACILITIES, INFORMATION PROVIDERS, LICENSORS, NOR ANY EXCHANGES, CLEARING ORGANIZATIONS OR OTHER SUPPLIERS PROVIDING DATA, INFORMATION, OR SERVICES (EACH A "PROVIDER") MAKE ANY REPRESENTATION OR WARRANTY: (A) AS TO THE TIMELINESS, SEQUENCE, ACCURACY, COMPLETENESS, RELIABILITY OR CONTENT OF THE GAMEDAY PAYOFF APPLICATIONS OR GAMEDAY PAYOFF SERVICES OR ANY INFORMATION, SERVICE OR TRANSACTION PROVIDED THEREBY, OR (B) THAT THE GAMEDAY PAYOFF APPLICATIONS OR GAMEDAY PAYOFF'S SERVICES WILL BE AVAILABLE OR WILL OPERATE IN AN UNINTERRUPTED OR ERROR-FREE MANNER, (C) THAT ERRORS OR DEFECTS RELATED TO THE GAMEDAY PAYOFF APPLICATIONS OR THE SERVICES WILL BE CORRECTED OR (D) THAT WE CAN IDENTIFY AND IDENTITY THEFT. WE ALSO DO NOT WARRANT THAT THE GAMEDAY PAYOFF APPLICATIONS OR THE SERVICES OR THE INFORMATION AVAILABLE THROUGH THE SERVICES, IS APPROPRIATE, ACCURATE OR AVAILABLE FOR USE IN ANY PARTICULAR JURISDICTION.
+ 
+GAMEDAY PAYOFF IS NOT RESPONSIBLE FOR THE DATA PROVIDED BY US OR ENTERED BY YOU, HOW IT IS USED, OR POSSIBLE REALIZED OR NOT REALIZED LOSSES THAT MAY OR MAY NOT BE ATTRIBUTED TO SUCH DATA AND ITS SUBSEQUENT USE.
+ 
+THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS AGREEMENT.
+ 
+The above exclusions may not apply in jurisdictions that do not allow the exclusion of certain implied warranties.
+ 
+9. Disclaimer of Products Intended Use
+THIS SOFTWARE IS NOT INTENDED FOR USE TO PROMOTE OR ENGAGE IN ANY ILLEGAL ACTS OF OFFERING WAGERS FOR MONIES OR OTHER FORMS OF ILLEGAL COMPENSATORY AWARDS.  THE BOOK MODULE OFFERED IN GAMEDAY PAYOFF IS TO BE USED FOR RECREATIONAL OR EDUCATIONAL USES ONLY.  SUCH VALID USES WOULD BE TO HAVE A GROUP OF PLAYERS ENGAGE IN A FANTASY WAGERING GAME AND HAVE THE WINNER AFFORDED THE LUXERY OF BEING DEEMED BEST AMONG THEIR PEERS.  ANY AND ALL REFERENCES TO WAGERING, BETTING, AND WORDS OF LIKE IMPLICATIONS ARE TO BE APPLIED IN THE AFOREMENTIONED CONTEXT.
+ 
+10. Termination
+You may terminate this Agreement at any time by uninstalling and destroying all copies of the GAMEDAY PAYOFF Applications in your possession or control. We may terminate this Agreement, disable GAMEDAY PAYOFF Applications or cease providing any service at any time in our sole discretion.
+ 
+11. Limitation of Liability
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT IN NO EVENT WILL GAMEDAY PAYOFF, ITS PARENTS, SUBSIDIARIES, OR AFFILIATES OR THEIR EMPLOYEES, DISTRIBUTORS, SUPPLIERS, MERCHANT PARTNERS, ADVERTISERS, DIRECTORS OR AGENTS (EACH A "PROTECTED PARTY, COLLECTIVELY "PROTECTED PARTIES") BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, CONSEQUENTIAL OR EXEMPLARY DAMAGES OR OTHER RELIEF ARISING OUT OF, OR RELATED TO, THIS AGREEMENT OR TO YOUR USE OR INABILITY TO USE ANY OR ALL OF THE GAMEDAY PAYOFF APPLICATIONS OR GAMEDAY PAYOFF SERVICES INCLUDING, WITHOUT LIMITATION, LOST PROFITS, LOST BUSINESS OR LOST OPPORTUNITY, GOODWILL, OR OTHER INTANGIBLE LOSSES (EVEN IF GAMEDAY PAYOFF HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES).
+ 
+SOLELY TO THE EXTENT THE FOREGOING LIMITATION OF LIABILITY IS, FOR ANY REASON, HELD TO BE INAPPLICABLE OR UNENFORCEABLE IN WHOLE OR IN PART, THEN GAMEDAY PAYOFF'S AGGREGATE LIABILITY, FOR ANY REASON AND FOR ANY CAUSE OF ACTION AND ANY THEORY OF LIABILITY, ARISING OUT OF OR RELATED TO THE SERVICES OR THIS AGREEMENT SHALL BE LIMITED TO THE LESSER OF DAMAGES ACTUALLY INCURRED OR THE AVERAGE REVENUE RECEIVED BY GAMEDAY PAYOFF PER USER OF THE GAMEDAY PAYOFF APPLICATION PER MONTH AS CALCULATED BY GAMEDAY PAYOFF BASED ON THE USE OF THE GAMEDAY PAYOFF APPLICATIONS (AND NOT OTHER PRODUCTS OR SERVICES OFFERED BY GAMEDAY PAYOFF) MULTIPLIED BY THE NUMBER OF COMPLETE MONTHS YOU HAVE BEEN A GAMEDAY PAYOFF APPLICATION USER. THE PROTECTED PARTIES ASSUME NO LIABILITY HEREUNDER FOR, AND SHALL HAVE NO OBLIGATION TO DEFEND YOU OR TO PAY COSTS, DAMAGES OR ATTORNEYS' FEES FOR, ANY CLAIM BASED UPON: (I) ANY METHOD OR PROCESS IN WHICH THE GAMEDAY PAYOFF APPLICATION MAY BE USED BY YOU; (II) ANY RESULTS OF USING THE GAMEDAY PAYOFF APPLICATION; (III) ANY USE OF OTHER THAN A CURRENT UNALTERED RELEASE OF ONE OF GAMEDAY PAYOFF APPLICATIONS; OR (IV) THE COMBINATION, OPERATION OR USE OF ANY OF THE GAMEDAY PAYOFF APPLICATION(S) WITH THIRD PARTY PROGRAMS OR DATA.
+ 
+BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR THE LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, IN SUCH STATES OR JURISDICTIONS, OUR LIABILITY SHALL BE LIMITED TO THE EXTENT PERMITTED BY LAW.
+ 
+12. Export Controls
+The GAMEDAY PAYOFF Application and the underlying information and technology may not be downloaded or otherwise exported or re-exported (i) into (or to a national or resident of) Afghanistan, Cuba, Iraq, Libya, Yugoslavia, North Korea, Iran, Syria or any other country to which the U.S. has embargoed goods; or (ii) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Commerce Department's Table of Deny Orders. By downloading or using the GAMEDAY PAYOFF Application, you agree to the foregoing and you represent and warrant that you are not located in, under the control of, or a national or resident of any such country or on any such list, and that you will otherwise comply with all applicable export control laws.
+ 
+13. Notice to Government End Users
+Any GAMEDAY PAYOFF Application, software and documentation hereunder downloaded or otherwise installed for or on behalf of the United States of America, its agencies and/or instrumentalities ("U.S. Government"), is provided with Restricted Rights as "Commercial Items," as that term is defined at 48 C.F.R. section 2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation," as such terms are used in 48 C.F.R. section 12.212 or 48 C.F.R. section 227.7202, as applicable. Pursuant to Federal Acquisition Regulation 12.212 (48 C.F.R. section 12.212), the U.S. Government shall have only those rights specified in the license contained herein. The U.S. Government shall not be entitled to (i) technical information that is not customarily provided to the public or to (ii) use, modify, reproduce, release, perform, display, or disclose commercial computer software or commercial computer software documentation except as specified herein. Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software - Restricted Rights at 48 C.F.R. 52.227-19, as applicable.
+ 
+14. Applicable Law
+By accessing or using the GAMEDAY PAYOFF Application or our services, you agree that the substantive laws of the State of Missouri in the United States of America shall govern all matters relating to or arising from this Agreement, and the use (or inability to use) any or all of the services or the GAMEDAY PAYOFF Application, and that such laws shall apply without regard to principles of conflict of laws. Subject to the dispute resolution procedures set forth below, you hereby submit to the exclusive jurisdiction and venue of the appropriate State and Federal courts located in St. Louis, Missouri, with respect to all matters arising out of or relating to this Agreement. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the GAMEDAY PAYOFF Service, any GAMEDAY PAYOFF Application or the GAMEDAY PAYOFF Privacy Policy must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+ 
+15. Arbitration
+Any claim or controversy arising out of or related to this Agreement, or the products or services we provide or distribute shall be settled by individual binding arbitration in accordance with the rules of the American Arbitration Association then effective. Any such claim or controversy shall be arbitrated on an individual basis and shall not be consolidated with a claim of any other party. Further, in any such dispute, under no circumstances will you be permitted to obtain awards for, and you hereby waive all rights to claim punitive, incidental or consequential damages, and you further waive all rights to have damages multiplied</EULA>
+  </Permissions>
+  <Press_Release>
+    <Press_Release>GameDay Payoff is offering free sports wagering software for bookies to operate their sportsbook and players to place or record and track their wagers for betting and gambling purposes.  For use by both Players and/or Books alike.  This software has all the bells and whistles. Nothing on the market can touch this product. This software offers real time wager status with how many points needed and pace, direct connection (optional) if you want to ditch the phones, advanced wager offerings, wagers over multiple days, customized policy settings, exposure management, bookkeeping, wager evaluating, games in progress,and box scores just to name a few.  This is your one stop shop and it comes at just the right price.  It's Free! There is nothing to buy and we do not take any information or require any registration.  It's finally time to ditch the notebook, pen, and calculator. Phones become optional.  Get your free fully functional, no questions asked, no information taken softare at www.gamedaypayoff.com.</Press_Release>
+    <Summary>GameDay Payoff is taking the sports wagering industry by storm by offering the first one-of-its-kind all purpose software that allows Bookies to connect to their Players and automatic wager resolving along with a whole host of accounting type features.</Summary>
+    <Headline>Free Innovative Software for the Sports Wagering Industry</Headline>
+  </Press_Release>
+  <Article>
+    <Article_FORM></Article_FORM>
+    <Article_VERSION></Article_VERSION>
+    <Article_Title></Article_Title>
+    <Article_URL></Article_URL>
+    <Article_Summary></Article_Summary>
+    <Article_Keywords></Article_Keywords>
+    <Article_Author_Info></Article_Author_Info>
+    <Article_Photo_URL></Article_Photo_URL>
+    <Article_Photo_Local></Article_Photo_Local>
+    <Article_Text></Article_Text>
+    <Article_Text_Plain></Article_Text_Plain>
+  </Article>
+  <ESC>
+    <ESC_FORM></ESC_FORM>
+  </ESC>
+  <Program_Descriptions>
+    <English>
+      <Keywords>sportsbook, sports wagering, bookie, gambling, betting, software, free, spreads, handicapping</Keywords>
+      <Char_Desc_45>Free Sports Wagering Software</Char_Desc_45>
+      <Char_Desc_80>Free Sports Wagering Software for Players and Bookies</Char_Desc_80>
+      <Char_Desc_250>Free sports wagering software for bookies to operate their sportsbook and players to place or record and track their wagers for betting and gambling purposes.</Char_Desc_250>
+      <Char_Desc_450>Free sports wagering software for bookies to operate their sportsbook and players to place or record and track their wagers for betting and gambling purposes. Offers real time wager status with how many points needed and pace, direct connection (optional), advanced wager offerings, wagers over multiple days, customized policy settings, exposure management, bookkeeping, wager evaluating, games in progress,and box scores just to name a few.</Char_Desc_450>
+      <Char_Desc_2000>Free sports wagering software for bookies to operate their sportsbook and players to place or record and track their wagers for betting and gambling purposes.  For use by both Players and/or Books alike.  This software has all the bells and whistles. Nothing on the market can touch this product. This software offers real time wager status with how many points needed and pace, direct connection (optional) if you want to ditch the phones, advanced wager offerings, wagers over multiple days, customized policy settings, exposure management, bookkeeping, wager evaluating, games in progress,and box scores just to name a few.  This is your one stop shop and it comes at just the right price.  It's Free! There is nothing to buy and we do not take any information or require any registration.  It's finally time to ditch the notebook, pen, and calculator. Phones become optional.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>
